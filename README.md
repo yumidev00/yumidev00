@@ -15,6 +15,4 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=yumidev00&theme=redical)
 
-![snake](https://raw.githubusercontent.com/yumidev00/yumidev00/output/github-contribution-grid-snake.svg)
-
 <br>
