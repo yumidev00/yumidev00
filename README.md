@@ -18,5 +18,3 @@
 ![snake](https://raw.githubusercontent.com/yumidev00/yumidev00/output/github-contribution-grid-snake.svg)
 
 <br>
-<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=yumidev00" alt="yumi"/> </p>  </p>
-<br>
