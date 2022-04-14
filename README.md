@@ -1,4 +1,4 @@
-<h3 align="center">Konnichiwa~, I come in peace!</h3>
+<h3 align="center">Konnichiwa~ I come in peace!</h3>
 
 <p align="center">
   
