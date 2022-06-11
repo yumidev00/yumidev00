@@ -1,4 +1,3 @@
-
 <h3 align="center">こんにちは〜、I come in peace!</h3>
 
 <p align="center">  
