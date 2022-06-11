@@ -6,6 +6,15 @@
   <!-- <h3 align="center">You can’t be me so don’t even try ;)</h3> -->
 </p>
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yumidev00&show_icons=true&theme=graywhite&hide_border=true) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yumidev00&theme=graywhite&hide_border=true)](https://git.io/streak-stats) |
+| - | - |
+
 <!-- GitHub Stats -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yumidev00&show_icons=true&theme=graywhite&hide_border=true)
