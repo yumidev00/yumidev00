@@ -1,21 +1,15 @@
-<h3 align="center">Konnichiwa~ I come in peace!</h3>
+<h3 align="center">こんにちは〜、I come in peace!</h3>
 
-<p align="center">
-  
-  <img src="https://raw.githubusercontent.com/yumidev00/yumidev00/master/img/profile.png"/>
-
+<p align="center">  
+  <!-- <img src="https://raw.githubusercontent.com/yumidev00/yumidev00/master/img/profile.png"/> -->
+  <img align="center" src="https://i.ppy.sh/71f649ee3f911ea9f67cef99a0a6982c0595274c/68747470733a2f2f692e696d6775722e636f6d2f4e4864315174732e676966"/>
+  <!-- <h3 align="center">You can’t be me so don’t even try ;)</h3> -->
 </p>
 
-<br>
+<!-- GitHub Stats -->
 
-<h3 align="center">You can’t be me so don’t even try ;)</h3>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yumidev00&show_icons=true&theme=graywhite&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yumidev00&theme=graywhite&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yumidev00&hide_title=true&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=false&hide_border=true)](https://github.com/yumidev00/YumiDev00)
 
-<br>
-
-|![](https://github-readme-stats.vercel.app/api?username=yumidev00&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=yumidev00&layout=compact&theme=tokyonight&langs_count=10)|
-|-|-|
-
-![](https://activity-graph.herokuapp.com/graph?username=yumidev00&theme=redical)
-
-<br>
+<!-- /GitHub Stats/ -->
